@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToDataTableDemo", "LinqToDataTableDemo\LinqToDataTableDemo.csproj", "{D9DCA1A0-EB75-498A-9E27-C1D2BFB620E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductReviewManagementWithLinq", "ProductReviewManagementWithLinq\ProductReviewManagementWithLinq.csproj", "{94776F0D-2E60-45A6-A6D1-4DE695229C66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9DCA1A0-EB75-498A-9E27-C1D2BFB620E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9DCA1A0-EB75-498A-9E27-C1D2BFB620E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9DCA1A0-EB75-498A-9E27-C1D2BFB620E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9DCA1A0-EB75-498A-9E27-C1D2BFB620E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94776F0D-2E60-45A6-A6D1-4DE695229C66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94776F0D-2E60-45A6-A6D1-4DE695229C66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94776F0D-2E60-45A6-A6D1-4DE695229C66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94776F0D-2E60-45A6-A6D1-4DE695229C66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25A196EB-B281-4CCF-8CB5-B9DC91D2D388}
+	EndGlobalSection
+EndGlobal
